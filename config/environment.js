@@ -13,6 +13,13 @@ module.exports = function(environment) {
       }
     },
 
+    firebase: {
+      apiKey: "AIzaSyCyMvUGvr03v11ifyu3z4yZIIswVoIMCa8",
+      authDomain: "meetup-review-6e411.firebaseapp.com",
+      databaseURL: "https://meetup-review-6e411.firebaseio.com",
+      storageBucket: "meetup-review-6e411.appspot.com",
+    },
+
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
